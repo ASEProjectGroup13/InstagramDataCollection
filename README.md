@@ -1,1 +1,1 @@
-# InstogramDataCollection
+# InstagramDataCollection
